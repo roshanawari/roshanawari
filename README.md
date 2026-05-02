@@ -68,14 +68,14 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=roshan16a-prog&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan16a-prog&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=roshanawari&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanawari&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=roshan16a-prog&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=roshanawari&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
