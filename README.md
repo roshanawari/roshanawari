@@ -40,24 +40,25 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=roshan16a-prog\&theme=dark\&hide_border=false)<br/>
-![](https://streak-stats.demolab.com/?user=roshan16a-prog\&theme=dark\&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=roshan16a-prog\&theme=dark\&hide_border=false\&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=roshanawari\&theme=dark\&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=roshanawari\&theme=dark\&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=roshanawari\&theme=dark\&hide_border=false\&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=roshan16a-prog\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=roshanawari\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="center">
 <a href="mailto:roshan16a@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/roshan16a-prog">
+<a href="https://github.com/roshanawari">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/roshan-awari-79552a329">
@@ -71,8 +72,9 @@
 </a>
 </p>
 
+---
 
- 
-[![](https://komarev.com/ghpvc/?username=roshan16a-prog\&color=blueviolet\&style=for-the-badge)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=roshanawari\&color=blueviolet\&style=for-the-badge)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with ❤️ by Roshan Awari -->
+
