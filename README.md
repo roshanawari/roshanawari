@@ -1,83 +1,78 @@
-<h1 align="center">Hi 👋, I'm ROSHAN AWARI</h1>
-<h3 align="center">🚀 AI & ML Developer | Full Stack Developer from India</h3>
+# 💫 About Me:
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=roshan16a-prog&theme=onedark" alt="roshanawari" />
-  </a>
-</p>
-
----
-
-### 🚀 About Me
-
-* 🎓 B.Tech CSE (AI & ML) @ YCCE Nagpur
-* 🧠 Strong in **DSA, Machine Learning & Deep Learning**
-* 🤖 Building **AI-powered scalable and intelligent applications**
-* 📊 Interested in **Data Science, AI systems, and real-world problem solving**
-* ⚡ Skilled in **Python, ML frameworks, and modern web technologies**
-* 🚀 Currently exploring **Advanced AI concepts and system design**
-* 💡 Passionate about **turning ideas into impactful solutions**
-* 📫 Reach me at **[roshan16a@gmail.com](mailto:roshan16a@gmail.com)**
+🎓 B.Tech CSE (AI & ML) @ YCCE Nagpur<br>
+🧠 Strong in DSA, Machine Learning & Deep Learning<br>
+🤖 Building AI-powered scalable and intelligent applications<br>
+📊 Interested in Data Science, AI systems, and real-world problem solving<br>
+⚡ Skilled in Python, ML frameworks, and modern web technologies<br>
+🚀 Currently exploring Advanced AI concepts and system design<br>
+💡 Passionate about turning ideas into impactful solutions<br>
+📫 Reach me at [roshan16a@gmail.com](mailto:roshan16a@gmail.com)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/roshan-awari-79552a329" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/IP4KlDC3ag/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-</p>
+# 💻 Tech Stack:
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge\&logo=opencv\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge\&logo=plotly\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=PyTorch\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+# 📊 GitHub Stats:
 
-<!-- Programming -->
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-<!-- AI/ML -->
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-
-<!-- Web -->
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-
-<!-- Tools -->
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-
-</p>
+![](https://github-readme-stats.shion.dev/api?username=roshan16a-prog\&theme=dark\&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=roshan16a-prog\&theme=dark\&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=roshan16a-prog\&theme=dark\&hide_border=false\&layout=compact)
 
 ---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=roshan16a-prog\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+
+---
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=roshanawari&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanawari&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="mailto:roshan16a@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/roshan16a-prog">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/roshan-awari-79552a329">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/IP4KlDC3ag/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://portfolio-nud2.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
----
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=roshanawari&theme=tokyonight&hide_border=true"/>
-</p>
+ 
+[![](https://komarev.com/ghpvc/?username=roshan16a-prog\&color=blueviolet\&style=for-the-badge)](https://visitcount.itsvg.in)
 
----
-
-<h3 align="center">💡 "Building AI solutions that actually matter."</h3>
+<!-- Proudly created with ❤️ by Roshan Awari -->
