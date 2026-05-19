@@ -40,8 +40,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=roshanawari\&theme=dark\&hide_border=false)<br/>
-![](https://streak-stats.demolab.com/?user=roshanawari\&theme=dark\&hide_border=false)<br/>
+ 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=roshanawari\&theme=dark\&hide_border=false\&layout=compact)
 
 ---
